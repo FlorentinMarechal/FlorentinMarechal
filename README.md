@@ -1,3 +1,4 @@
+<div background-color:"White">
 <h1 align="center">Salut 👋, je m'appelle Florentin</h1>
 
 <p align="left">Je suis un développeur web FullStack travaillant principalement sous JavaScript pour le moment.
@@ -10,3 +11,4 @@
 
 <h3 align="left">Mes Réseaux: </h3>
 <a href="https://www.linkedin.com/in/florentin-marechal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jimmy-sene/" height="30" width="40" /></a>
+</div>
