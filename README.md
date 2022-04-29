@@ -2,7 +2,7 @@
 
 <p align="left">Je suis un développeur web FullStack travaillant principalement sous JavaScript pour le moment.
   <br>
-  Après une première expérience spécialisé BackEnd (<a href="url">Chibi</a>) je me lance dans l'apprentissage de React ! 😄
+  Après une première expérience spécialisé BackEnd (<a href="https://github.com/FlorentinMarechal/chibi-cafe">Chibi</a>) je me lance dans l'apprentissage de React ! 😄
 </p>
 
 <h3 align="left">Skills:</h3>
